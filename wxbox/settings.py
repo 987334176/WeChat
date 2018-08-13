@@ -123,7 +123,7 @@ STATIC_URL = '/static/'
 
 # 微信公众号
 WECHAT_PUBLIC = {
-    "appid": 'wx038ba9d6c87fe8e4',  # 个人的appid
-    "secret": 'fd1ebdff49010aa67a1457bbe250daa3', # 个人的secret
-    'redirect_uri':'http://45.40.192.14:8000/get_wx_id/',  # 个人的django服务器回调地址
+    "appid": 'wx038ba9d6c87xxxx',  # 个人的appid
+    "secret": 'fd1ebdff49010aa67a1457bbe250xxx', # 个人的secret
+    'redirect_uri':'http://45.xx.192.14:8000/get_wx_id/',  # 个人的django服务器回调地址
 }
